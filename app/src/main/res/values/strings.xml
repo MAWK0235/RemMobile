@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RemMobile</string>
+    <string name="nav_connections">Connections</string>
+    <string name="nav_sessions">Sessions</string>
+    <string name="nav_vault">SSH &amp; Gateways</string>
+    <string name="nav_sync">Sync &amp; Diagnostics</string>
+    <string name="quick_connect_hint">Quick connect (e.g. rdp://10.0.1.15 or ssh://root@192.168.1.10:22)</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_new_profile">New Connection Profile</string>
+    <string name="hero_banner_desc">Encrypted multi-protocol network topology banner</string>
+    <string name="empty_profiles_title">No Saved Connection Profiles</string>
+    <string name="empty_profiles_subtitle">Create a new RDP, SSH, VNC, or SPICE profile or use the Quick Connect bar above.</string>
+</resources>
