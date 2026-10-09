@@ -1,0 +1,6 @@
+{
+  "name": "RemMobile",
+  "description": "100% local, client-side multi-protocol remote desktop client (RemMobile) for Android supporting RDP, SSH, VNC, and SPICE with SSH gateway tunneling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
