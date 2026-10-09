@@ -84,18 +84,3 @@ app/src/main/java/com/example/
     └── theme/                             # Material 3 Dark/Light color schemes & typography
 ```
 
----
-
-## Building & Running Tests
-
-### Compile Debug APK
-Use the standard Gradle build task:
-```bash
-gradle assembleDebug
-```
-
-### Run Unit & Robolectric Tests
-The project includes unit and Robolectric tests verifying RDP RLE/Planar bitmap decompression, dirty-rectangle tracking, coordinate normalization, and `.remmina` profile serialization:
-```bash
-gradle :app:testDebugUnitTest
-```
