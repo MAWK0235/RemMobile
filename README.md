@@ -83,4 +83,4 @@ app/src/main/java/com/example/
     │   └── RemoteFramebufferCanvas.kt     # Hardware-accelerated RDP/VNC canvas, trackpad & keyboard bar
     └── theme/                             # Material 3 Dark/Light color schemes & typography
 ```
-
+Buy me coffee!: buymeacoffee.com/mawk
